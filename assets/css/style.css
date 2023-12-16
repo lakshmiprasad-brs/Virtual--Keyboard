@@ -115,7 +115,10 @@ header h4 {
     text-transform: uppercase;
     text-align: center;
 }
+.keybord{
+        background-color: #dedede;
 
+}
 
 
 .ReactTitle {
